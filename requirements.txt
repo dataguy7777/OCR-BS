@@ -1,1 +1,6 @@
 streamlit
+pytesseract
+pdf2image
+Pillow
+pandas
+python-poppler 
